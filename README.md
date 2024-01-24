@@ -1,4 +1,4 @@
-The objective of this project, is to study more about compiler
+The objective of this project, is to study more about compilers
 
 I am following the videos from Pixeled in youtube
 
